@@ -1,8 +1,8 @@
-# 사용법
+Getting started
+================
 Read the docs와 github repository를 연동하는 방법에 대해 알아봅니다.
 <br>
 
-## Getting started
 - 연동하고자 하는 github repository에 ``` docs ``` 폴더와 ``` mkdocs.yml ``` 파일을 생성합니다.
 - docs 폴더에 문서화하고자 하는 *.md 파일들을 넣어줍니다. (README.md 또는 index.md 파일 둘 중 하나는 반드시 있어야 합니다.) 
 - ```mkdocs.yml``` 파일은 다음과 같이 작성합니다.
@@ -22,5 +22,3 @@ theme: readthedocs
 ![2](./images/2.png)
 
 - 빌드가 완료되면, ```View Docs``` 버튼을 눌러 결과를 확인할 수 있습니다.
-
-## Example
