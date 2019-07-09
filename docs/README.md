@@ -18,12 +18,12 @@ theme: readthedocs
 
 - 우측 상단의 배지를 클릭하여 ```My Projects``` 탭으로 이동합니다.
 
-- ```import project```를 클릭하면 본인의 모든 github repository 목록이 나옵니다. <br>
+- ```Import a Project```를 클릭하면 본인의 모든 github repository 목록이 나옵니다. <br>
    앞서 ```docs``` 폴더와 ```mkdocs.yml``` 파일을 생성했던 repository를 선택합니다.
    ![3](./images/3.png)
 
 
-- Project의 ```Admin``` -> ```Advanced Settings``` 탭에서 ```Document type```을 Mkdocs (Markdown) 으로 변경하고 최하단의 ```저장``` 버튼을 클릭합니다.
+- Project의 ```Admin``` -> ```Advanced Settings``` 탭에서 ```Documentation type```을 Mkdocs (Markdown) 으로 변경하고 최하단의 ```저장``` 버튼을 클릭합니다.
 ![1](./images/1.png)
 
 - Project의 ```Overview``` 탭에서  ```Build version ``` 버튼을 눌러 빌드합니다. <br>
