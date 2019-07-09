@@ -21,7 +21,7 @@ theme: readthedocs
 - ```import project```를 클릭하면 본인의 모든 github repository 목록이 나옵니다. <br>
    앞서 docs 폴더를 생성한 repository를 선택합니다.
 
-- Project의 ```Admin``` -> ```Advanced Settings``` 탭에서 ```Document type```을 Mkdocs (Markdown) 으로 변경합니다.
+- Project의 ```Admin``` -> ```Advanced Settings``` 탭에서 ```Document type```을 Mkdocs (Markdown) 으로 변경하고 최하단의 ```저장``` 버튼을 클릭합니다.
 ![1](./images/1.png)
 
 - Project의 ```Overview``` 탭에서  ```Build version ``` 버튼을 눌러 빌드합니다.
